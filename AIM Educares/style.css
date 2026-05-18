@@ -1,0 +1,53 @@
+.nabi{background-color: rgb(84, 35, 84)!important;  height: 60px}
+.banner{background-image: url(./images/banner0.jpg); background-position: center;background-repeat: no-repeat;color: white;text-align: center;padding:200px 0;}
+p{font-size: 22px;font-style: caliber; text-align: justify;}
+.btn_area a{background-color: black; color: white; border-radius:9px;margin-right: 40px; height: 55px;width: 164px; display:inline-block; text-align:center; line-height: 55px;}
+img{border-radius: 9px;}
+.page3{margin-top:20px}
+.head{text-align: center;margin-top: 55px;margin-bottom: 60px;color: aliceblue;}
+.menu .navbar { background:yellow;}
+.menu ul li{ margin: 0 10px;}
+.rimg img{width: 100%; height: 402px;object-fit: cover;line-height: 300px;}
+.who_r{padding:70px 0;}
+.limg img{width:100%;object-fit: cover;}
+.limg img:first-child{height: 182px;margin-bottom: 20px;}
+.limg img:last-child{height: 200px;}
+.pagr2{background-image: url(./images/backg.jpg);height: 1032px;}
+.ali_le img{height: 266px;width: 100%;margin: 0px;overflow: hidden;border-radius: 10px 10px 0px 0px;object-fit: cover;}
+.ali_mi img{height: 266px;width: 100%;margin: 0px;overflow: hidden;border-radius: 10px 10px 0px 0px;object-fit: cover;}
+.ali_re img{height: 266px;width: 100%;margin: 0px;overflow: hidden;border-radius: 10px 10px 0px 0px;object-fit: cover;}
+.ali_le_d img{height: 266px;width: 100%;margin: 0px;overflow: hidden;border-radius: 10px 10px 0px 0px;object-fit: cover;}
+.ali_mi_d img{height: 266px;width: 100%;margin: 0px;overflow: hidden;border-radius: 10px 10px 0px 0px;object-fit: cover;}
+.ali_re_d img{height: 266px;width: 100%;margin: 0px; overflow: hidden;border-radius: 10px 10px 0px 0p;object-fit: cover;}
+.p3{text-align: center;margin-top: 50px;color: rgb(2, 2, 5);}
+.q{background-color: white;height: 400px;border-radius: 9px 9px 15px 15px;margin:10px 0;}
+.ok{text-align: center; margin: 21px;}
+.ok a{background-color: black; color: white; border-radius:9px;height: 55px;width: 130px; display:inline-block; text-align:center; line-height: 55px;}
+.ok a:hover{background: red;}
+.oki{background-color: white;height: 400px; border-radius: 9px 9px 15px 15px;}
+.okl{text-align: center;margin: 21px;}
+.okl a{background-color: black;color: white;height: 55px;width: 130px;display: inline-block;text-align: center;border-radius: 9px;line-height: 55px;}
+.we{background-color: white;height: 400px; border-radius: 9px 9px 15px 15px;}
+.qw{text-align: center;;margin: 21px;}
+.qw a{background-color: black;color: white;height: 55px;width: 130px;display: inline-block;text-align: center;border-radius: 9px;line-height: 55px;}
+.olt{background-color: white;height: 400px; border-radius: 9px 9px 15px 15px;margin-top: 15px}
+.oil{text-align: center;;margin: 21px;}
+.oil a{background-color: black;color: white;height: 55px;width: 130px;display: inline-block;text-align: center;border-radius: 9px;line-height: 55px;}
+.bwu{background-color: white;height: 400px; border-radius: 9px 9px 15px 15px;margin-top: 15px}
+.cs{text-align: center;;margin: 21px;}
+.cs a{background-color: black;color: white;height: 55px;width: 130px;display: inline-block;text-align: center;border-radius: 9px;line-height: 55px;}
+.op{background-color: white; height: 400px;border-radius: 9px 9px 15px 15px;margin-top: 15px;}
+.h{text-align: center;;margin: 21px;}
+.h a{background-color: black;color: white;height: 55px;width: 130px;display: inline-block;text-align: center;border-radius: 9px;line-height: 55px;}
+.part img{ border-radius: 90px;margin: 21px;}
+.page3 {background-image: url(./images/texture.jpg);height: 330px;}
+.enter{background-color: yellow;border-radius: 8px; border: 2px solid yellow; padding:  10px;    margin: 17px;line-height: 22px;}
+
+
+
+
+
+
+@media (max-width:768px){
+    .rimg img{ height: 400px;}
+} 
